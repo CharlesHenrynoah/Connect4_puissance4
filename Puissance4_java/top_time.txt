@@ -1,0 +1,15 @@
+Nom du joueur : Charles / Temps de victoire : 22 secondes
+Nom du joueur : IA / Temps de victoire : 13 secondes
+Nom du joueur : Noah / Temps de victoire : 37 secondes
+Nom du joueur : IA 1 / Temps de victoire : 0 secondes
+Nom du joueur : IA 1 / Temps de victoire : 0 secondes
+Nom du joueur : IA 2 / Temps de victoire : 0 secondes
+Nom du joueur : Charles / Temps de victoire : 800 centièmes de seconde
+Nom du joueur : IA 2 / Temps de victoire : 0 centièmes de seconde
+Nom du joueur : IA 2 / Temps de victoire : 0 centièmes de seconde
+Nom du joueur : IA 1 / Temps de victoire : 0 centièmes de seconde
+Nom du joueur : IA 1 / Temps de victoire : 0 centièmes de seconde
+Nom du joueur : IA 2 / Temps de victoire : 0 centièmes de seconde
+Nom du joueur : IA 2 / Temps de victoire : 0 centièmes de seconde
+Nom du joueur : IA 1 / Temps de victoire : 0 centièmes de seconde
+Nom du joueur : Charles / Temps de victoire : 2 centièmes de seconde
